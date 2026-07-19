@@ -105,12 +105,6 @@ Modifikasi project ini dengan menambahkan:
 4. **Tombol share** — tambahkan OutlinedButton untuk share profil
 5. **Dark mode toggle** — tambahkan switch untuk berganti tema
 
-### Pengumpulan:
-- Source code (.zip)
-- Screenshot preview (light + dark mode)
-- **Deadline: Pertemuan minggu depan**
-
----
 
 ## 📚 Referensi
 
@@ -118,3 +112,6 @@ Modifikasi project ini dengan menambahkan:
 - [Compose Layout Basics](https://developer.android.com/jetpack/compose/layouts/basics)
 - [State and Compose](https://developer.android.com/jetpack/compose/state)
 - [Material 3 Components](https://developer.android.com/jetpack/compose/designsystems/material3)
+
+# Hasil Tampilan Aplikasi
+<img src="images/hasil.jpeg" width="300">
