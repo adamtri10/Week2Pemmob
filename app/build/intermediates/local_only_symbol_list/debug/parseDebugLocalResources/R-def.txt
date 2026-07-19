@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+color colorOrange
+color colorPrimary
+color colorPrimaryonContainer
+color colorSecondary
+color colorSubmit
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+style Theme.ProfilMahasiswa

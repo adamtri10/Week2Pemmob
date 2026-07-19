@@ -1,0 +1,6 @@
+- [x] Add `lifecycle-viewmodel-compose` dependency
+- [x] Create `ProfileViewModel.kt` with default data ("Syaiful Arifin", "23083000155")
+- [x] Implement `MainActivity.kt` with state-based navigation and ViewModel integration
+- [x] Update `ProfileScreen.kt` to use ViewModel data and navigate to Edit
+- [x] Update `ProfileEdit.kt` to use ViewModel data, implement Save/Cancel, validation, and Image Picker
+- [x] Verify build and functionality
