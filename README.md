@@ -113,5 +113,8 @@ Modifikasi project ini dengan menambahkan:
 - [State and Compose](https://developer.android.com/jetpack/compose/state)
 - [Material 3 Components](https://developer.android.com/jetpack/compose/designsystems/material3)
 
-# Hasil Tampilan Aplikasi
-<img src="images/hasil.jpeg" width="300">
+<h2>Hasil Tampilan Aplikasi</h2>
+
+<p align="center">
+  <img src="hasil.jpeg" width="300">
+</p>
