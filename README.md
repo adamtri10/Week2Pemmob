@@ -116,5 +116,8 @@ Modifikasi project ini dengan menambahkan:
 <h2>Hasil Tampilan Aplikasi</h2>
 
 <p align="center">
-  <img src="hasil.jpeg" width="300">
+  <img src="hasil.jpeg" width="150">
+  <img src="dark.jpeg" width="150">
+  <img src="data nilai" width="150">
+    
 </p>
