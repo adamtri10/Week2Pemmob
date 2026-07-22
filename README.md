@@ -118,6 +118,6 @@ Modifikasi project ini dengan menambahkan:
 <p align="center">
   <img src="hasil.jpeg" width="150">
   <img src="dark.jpeg" width="150">
-  <img src="data nilai" width="150">
+  <img src="data nilai.jpeg" width="150">
     
 </p>
