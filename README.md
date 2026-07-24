@@ -1,4 +1,14 @@
 # 📱 Week 2 - Jetpack Compose Fundamentals
+
+<h2>Hasil Tampilan Aplikasi</h2>
+
+<p align="center">
+  <img src="hasil.jpeg" width="150">
+  <img src="dark.jpeg" width="150">
+  <img src="data nilai.jpeg" width="150">
+    
+</p>
+
 ## Praktikum: Aplikasi Profil Mahasiswa
 
 ---
@@ -113,11 +123,3 @@ Modifikasi project ini dengan menambahkan:
 - [State and Compose](https://developer.android.com/jetpack/compose/state)
 - [Material 3 Components](https://developer.android.com/jetpack/compose/designsystems/material3)
 
-<h2>Hasil Tampilan Aplikasi</h2>
-
-<p align="center">
-  <img src="hasil.jpeg" width="150">
-  <img src="dark.jpeg" width="150">
-  <img src="data nilai.jpeg" width="150">
-    
-</p>
